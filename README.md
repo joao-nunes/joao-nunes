@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joao-nunes
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and its applications in medical imaging and computer assisted diagnosis (CAD) in the fields of 
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and its applications in Medical Imaging and Computer Assisted Diagnosis (CAD) in the fields of 
 neuroscience and cancer research
 - 🌱 I’m currently learning Deep Learning and (Bio)Statistics
 - 📫 How to reach me: nunes.joaodiogo@gmail.com
