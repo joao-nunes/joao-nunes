@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joao-nunes
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and its applications in Medical Imaging and Computer Assisted Diagnosis (CAD) in the fields of 
-neuroscience and cancer research
-- 🌱 I’m currently learning Deep Learning and (Bio)Statistics
+- 👀 Currently, I do research on artificial intelligence. My main research interests include the broad fields of Machine Learning, Deep Learning, Spiking Neural Networks (SNNs), as well as well as their applications in medical imaging. My goal is to work in multidisciplinary teams at the intersection of computer science, artificial intelligence, biomedical engineering, and medicine.
+- 🌱 I’m currently learning Algorithms and Data Structures.
 - 📫 How to reach me: nunes.joaodiogo@gmail.com
 
 <!---
