@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joao-nunes
-- 👀 Currently, I do research on artificial intelligence. My main research interests include the broad fields of Machine Learning and Deep Learning, as well as their applications in medical imaging. I'm particularly interested in precision oncology that I think could greatly bennefit from multiomics (MRI, CT, H&E WSIs, etc.) cancer stratification. My goal is to work in multidisciplinary teams at the intersection of computer science, artificial intelligence, biomedical engineering, and medicine.
+- 👀 I am a Research Assistant at the Visual Computing and Machine Intelligence (VCMI) group, INESC TEC, and a PhD student at the Faculty of Engineering, University of Porto, Porto, Portugal, where I am enrolled in the Doctoral Program in Electrical and Computers Engineering (PDEEC). My main research interests include data science, machine learning, deep learning, and pattern recognition in general as well as their applications to computer vision, digital pathology, and cancer research. My other research interests include neuromorphic neural networks, namely spiking neural networks with computer vision applications.
 - 📫 How to reach me: nunes.joaodiogo@gmail.com
 
 <!---
